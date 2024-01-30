@@ -50,6 +50,8 @@ The project is structured into different sections, each focusing on a specific a
 
 
 ## Usage
-
 Adjust the code in the notebooks based on your preferences or to include additional analyses.
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
